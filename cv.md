@@ -67,6 +67,6 @@ console.log(hello);
 [University of Portsmouth](https://www.port.ac.uk/) - Portsmouth, UK *(2012 - 2015)*
 
 ## Languages
-:ru: **Russian**: Native <br>
-:gb: **English**: C1 <br>
-:lithuania: **Lithuanian**: B1
+**Russian**: Native <br>
+**English**: C1 <br>
+**Lithuanian**: B1
