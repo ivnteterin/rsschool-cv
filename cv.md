@@ -1,5 +1,5 @@
 # Ivan Teterin
-*Frontend developer and graphic designer based in Vilnius, LT* 
+*Frontend developer and graphic designer based in Vilnius, :lithuania:* 
  
 [Email](mailto:ivnteterin@gmail.com) / [LinkedIn](https://linkedin.com/in/ivnteterin/) / [GitHub](https://github.com/ivnteterin/) / [Portfolio](https://behance.net/ivnteterin)
 
